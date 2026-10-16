@@ -3,7 +3,7 @@
 Zero-dependency static site (Node ≥18). Chinese-first, EN toggle (top-right).
 
 ## Structure
-- `data/site.json` — site name / tagline, and `base` (URL prefix; `/` locally)
+- `data/site.json` — site name / tagline, `base` (URL prefix; `/` locally), and Buttondown `newsletter_form` / `newsletter_archive`
 - `data/categories.json` — research-task categories
 - `data/tools/<slug>.json` — **one file per tool** (add a tool = add a file)
 - `src/style.css`, `src/app.js` — styles + search/filter/lang toggle
@@ -35,4 +35,4 @@ Pushing to `main` runs `.github/workflows/pages.yml`: `BASE_PATH=/geoai-toolbox/
 
 The site is published at `https://alexxx-67.github.io/geoai-toolbox/`. One-time setup: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 
-Submit form + newsletter are placeholders (no backend).
+The newsletter form (home page and 订阅周报) posts to Buttondown (`newsletter_form` in `data/site.json`) and opens the confirmation in a new tab. The submit-a-tool form is still a placeholder (no backend).

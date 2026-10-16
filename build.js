@@ -22,6 +22,12 @@ function normBase(b){
 // Empty BASE_PATH is treated as "unset" so CI can leave it blank without wiping site.base.
 const base=normBase(process.env.BASE_PATH?process.env.BASE_PATH:site.base);
 const href=rel=>esc(base+String(rel).replace(/^\/+/,''));
+if(!site.newsletter_form||!site.newsletter_archive)throw new Error('data/site.json needs newsletter_form and newsletter_archive');
+const newsletterForm=()=>`<form class="form" action="${esc(site.newsletter_form)}" method="post" target="_blank">
+<label>${B('邮箱','Email')}<input type="email" name="email" required autocomplete="email"></label>
+<input type="hidden" name="embed" value="1">
+<button class="btn" type="submit">${B('订阅','Subscribe')}</button></form>
+<p class="archive"><a href="${esc(site.newsletter_archive)}" target="_blank" rel="noopener">${B('往期周报','Archive')}</a></p>`;
 function page(rel,title,body){
   const html=`<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)} · ${esc(site.name_zh)}</title><meta name="description" content="${esc(site.tagline_zh)}">
@@ -45,7 +51,7 @@ page('index.html',site.name_zh,`<section class="hero"><h1>${B(esc(site.tagline_z
 <label class="geo-only"><input type="checkbox" id="geoOnly"> ${B('只看地学专用','Geo-specific only')}</label></div></section>
 <nav class="catlinks">${B('按分类浏览：','Browse by category: ')}${cats.map(c=>`<a href="${href('category/'+c.slug+'/index.html')}">${c.icon} ${B(c.zh,c.en)}</a>`).join(' · ')}</nav>
 <p id="count" class="muted"></p><section class="grid" id="grid">${tools.map(t=>card(t)).join('')}</section>
-<section class="cta"><h2>${B('每周一封：地学 AI 新工具 + 实测','Weekly: new GeoAI tools + hands-on notes')}</h2><a class="btn" href="${href('newsletter/index.html')}">${B('订阅周报','Subscribe')}</a></section>`);
+<section class="cta"><h2>${B('每周一封：地学 AI 新工具 + 实测','Weekly: new GeoAI tools + hands-on notes')}</h2>${newsletterForm()}</section>`);
 // categories
 cats.forEach(c=>{const ts=tools.filter(t=>t.category===c.slug);
  page(`category/${c.slug}/index.html`,c.zh,`<p class="crumb"><a href="${href('index.html')}">${B('首页','Home')}</a> / ${B(c.zh,c.en)}</p><h1>${c.icon} ${B(c.zh,c.en)}</h1><p>${B(c.desc_zh,c.desc_en)}</p><p class="muted">${B(`${ts.length} 个工具`,`${ts.length} tools`)}</p><section class="grid">${ts.map(t=>card(t)).join('')}</section>`);});
@@ -70,8 +76,7 @@ page('submit/index.html','提交工具',`<h1>${B('提交一个工具','Submit a 
 <button class="btn" type="submit">${B('提交','Submit')}</button><p id="ok" hidden class="muted">${B('（占位）表单尚未接入后端，提交内容不会被发送。','(Placeholder) No backend yet — nothing was sent.')}</p></form>`);
 // newsletter
 page('newsletter/index.html','订阅周报',`<h1>${B('订阅「地学 AI 周报」','Subscribe to the GeoAI weekly')}</h1><p>${B('每周一封：1–2 个值得试的新工具、一段地学任务实测、一条 GEE/Python 小技巧。','Weekly: 1–2 new tools, one hands-on geoscience test, one GEE/Python tip.')}</p>
-<form class="form" onsubmit="event.preventDefault();document.getElementById('ok').hidden=false;"><label>${B('邮箱','Email')}<input type="email" required></label><button class="btn">${B('订阅','Subscribe')}</button>
-<p id="ok" hidden class="muted">${B('（占位）邮件服务尚未接入，暂未保存你的邮箱。','(Placeholder) Email service not connected yet; nothing saved.')}</p></form>`);
+${newsletterForm()}`);
 // about
 page('about/index.html','关于',`<h1>${B('关于本站','About')}</h1>
 <p class="zh">你好，我是 <strong>[站长姓名/昵称]</strong>，一名地理学博士生，研究方向是 <strong>[研究方向]</strong>。做研究时我每天都在用 AI：查文献、写 GEE 和 Python 代码、找数据、改英文论文。但新工具太多，哪个真的适合地学任务，很难判断。</p>
