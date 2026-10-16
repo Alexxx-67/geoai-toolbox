@@ -1,0 +1,20 @@
+{
+  "slug": "prithvi",
+  "name": "Prithvi（IBM & NASA）",
+  "url": "https://huggingface.co/ibm-nasa-geospatial",
+  "category": "models",
+  "desc_zh": "IBM 与 NASA 的地球观测/气象基础模型家族，基于 HLS 影像，权重在 Hugging Face 公开。",
+  "desc_en": "IBM–NASA foundation model family for Earth observation and weather, open weights on Hugging Face.",
+  "pricing": "free",
+  "pricing_note": "Hugging Face 公开权重。",
+  "geo": "yes",
+  "geo_note": "遥感基础模型。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://huggingface.co/ibm-nasa-geospatial",
+  "tags": [
+    "基础模型",
+    "HLS"
+  ]
+}

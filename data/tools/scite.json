@@ -1,0 +1,19 @@
+{
+  "slug": "scite",
+  "name": "Scite",
+  "url": "https://scite.ai",
+  "category": "literature",
+  "desc_zh": "Smart Citations：看一篇论文被引用时是支持还是反驳。",
+  "desc_en": "Smart Citations show whether a paper is supported or contradicted by citing work.",
+  "pricing": "paid",
+  "pricing_note": "定价页：Basic $12 起；提供 7 天免费试用。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://scite.ai/pricing",
+  "tags": [
+    "引用分析"
+  ]
+}

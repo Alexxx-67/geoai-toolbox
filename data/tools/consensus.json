@@ -1,0 +1,19 @@
+{
+  "slug": "consensus",
+  "name": "Consensus",
+  "url": "https://consensus.app",
+  "category": "literature",
+  "desc_zh": "AI 学术搜索引擎，直接给出基于同行评审论文的答案与证据。",
+  "desc_en": "AI academic search engine with evidence-based answers from peer-reviewed papers.",
+  "pricing": "freemium",
+  "pricing_note": "官网结构化数据标注可免费使用（最低价 $0），付费档详见定价页。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://consensus.app/",
+  "tags": [
+    "学术搜索"
+  ]
+}

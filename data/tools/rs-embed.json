@@ -1,0 +1,20 @@
+{
+  "slug": "rs-embed",
+  "name": "rs-embed",
+  "url": "https://github.com/cybergis/rs-embed",
+  "category": "models",
+  "desc_zh": "一行代码获取任意地点、任意时间的遥感基础模型嵌入。",
+  "desc_en": "One line of code to get remote sensing foundation model embeddings for any place and time.",
+  "pricing": "free",
+  "pricing_note": "GitHub 开源。",
+  "geo": "yes",
+  "geo_note": "遥感基础模型调用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://github.com/cybergis/rs-embed",
+  "tags": [
+    "嵌入",
+    "Python"
+  ]
+}

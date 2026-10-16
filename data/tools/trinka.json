@@ -1,0 +1,20 @@
+{
+  "slug": "trinka",
+  "name": "Trinka",
+  "url": "https://www.trinka.ai",
+  "category": "writing",
+  "desc_zh": "面向学术与技术写作的语法检查与润色工具，支持 AGU 等格式指南。",
+  "desc_en": "Grammar and style checker for academic/technical writing, incl. AGU style guide.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Basic 免费（每月 5000 词）；Premium 付费。",
+  "geo": "partial",
+  "geo_note": "通用写作工具，但支持 AGU（美国地球物理联合会）格式规范。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.trinka.ai/pricing",
+  "tags": [
+    "润色",
+    "AGU"
+  ]
+}

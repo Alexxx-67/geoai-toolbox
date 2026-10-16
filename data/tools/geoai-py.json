@@ -1,0 +1,21 @@
+{
+  "slug": "geoai-py",
+  "name": "GeoAI（opengeos）",
+  "url": "https://opengeoai.org",
+  "category": "models",
+  "desc_zh": "把深度学习接入地理空间分析的 Python 包：下载数据、做样本、训练、推理，附 QGIS 插件。",
+  "desc_en": "Python package bridging AI and geospatial analysis: data, training, inference, QGIS plugin.",
+  "pricing": "free",
+  "pricing_note": "MIT 开源。",
+  "geo": "yes",
+  "geo_note": "专为地理空间 AI 设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://opengeoai.org/",
+  "tags": [
+    "Python",
+    "QGIS",
+    "深度学习"
+  ]
+}

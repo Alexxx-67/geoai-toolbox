@@ -1,0 +1,19 @@
+{
+  "slug": "writefull",
+  "name": "Writefull",
+  "url": "https://www.writefull.com",
+  "category": "writing",
+  "desc_zh": "基于期刊论文训练的学术语言反馈工具，可生成标题、摘要。",
+  "desc_en": "Academic language feedback trained on journal articles; title and abstract generators.",
+  "pricing": "unknown",
+  "pricing_note": "官网有 Premium 档，价格待核实。",
+  "geo": "general",
+  "geo_note": "通用学术写作。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.writefull.com/",
+  "tags": [
+    "润色"
+  ]
+}

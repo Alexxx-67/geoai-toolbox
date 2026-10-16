@@ -1,0 +1,20 @@
+{
+  "slug": "paperpal",
+  "name": "Paperpal",
+  "url": "https://paperpal.com",
+  "category": "writing",
+  "desc_zh": "学术英文写作与润色助手，支持 Word、Google Docs、Overleaf。",
+  "desc_en": "Academic English writing and editing assistant for Word, Google Docs and Overleaf.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free $0；Prime $12/月；Pro $29/月（年付）。",
+  "geo": "general",
+  "geo_note": "通用学术写作，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://paperpal.com/pricing",
+  "tags": [
+    "润色",
+    "Overleaf"
+  ]
+}

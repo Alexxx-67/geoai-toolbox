@@ -1,0 +1,21 @@
+{
+  "slug": "torchgeo",
+  "name": "TorchGeo",
+  "url": "https://torchgeo.readthedocs.io",
+  "category": "data",
+  "desc_zh": "PyTorch 地理空间库：遥感数据集、采样器、多光谱预训练权重。",
+  "desc_en": "PyTorch domain library with geospatial datasets, samplers and multispectral pretrained weights.",
+  "pricing": "free",
+  "pricing_note": "开源（pip install torchgeo）。",
+  "geo": "yes",
+  "geo_note": "专为遥感深度学习设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://torchgeo.readthedocs.io/en/stable/",
+  "tags": [
+    "Python",
+    "数据集",
+    "深度学习"
+  ]
+}

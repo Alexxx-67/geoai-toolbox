@@ -1,0 +1,19 @@
+{
+  "slug": "connected-papers",
+  "name": "Connected Papers",
+  "url": "https://www.connectedpapers.com",
+  "category": "literature",
+  "desc_zh": "输入一篇论文，生成相似论文关系图，快速摸清领域。",
+  "desc_en": "Builds a graph of similar papers from one seed paper.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free 每月 5 张图；学术版 USD 6/月起。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.connectedpapers.com/pricing",
+  "tags": [
+    "引用网络"
+  ]
+}

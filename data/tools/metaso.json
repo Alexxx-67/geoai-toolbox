@@ -1,0 +1,19 @@
+{
+  "slug": "metaso",
+  "name": "秘塔AI搜索",
+  "url": "https://metaso.cn",
+  "category": "literature",
+  "desc_zh": "中文 AI 搜索引擎，无广告，可用于中文资料与学术检索。",
+  "desc_en": "Chinese AI search engine, ad-free.",
+  "pricing": "unknown",
+  "pricing_note": "官网首页未列出价格，待核实。",
+  "geo": "general",
+  "geo_note": "通用中文搜索，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://metaso.cn/",
+  "tags": [
+    "中文"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "gee-community-catalog",
+  "name": "Awesome GEE Community Catalog",
+  "url": "https://gee-community-catalog.org",
+  "category": "data",
+  "desc_zh": "社区维护的 GEE 数据目录，可直接在 GEE 中调用的开放数据。",
+  "desc_en": "Community-maintained catalog of analysis-ready open datasets inside Earth Engine.",
+  "pricing": "free",
+  "pricing_note": "开放社区数据。",
+  "geo": "yes",
+  "geo_note": "专为 GEE 用户整理。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://gee-community-catalog.org/",
+  "tags": [
+    "GEE",
+    "数据集"
+  ]
+}

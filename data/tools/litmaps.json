@@ -1,0 +1,19 @@
+{
+  "slug": "litmaps",
+  "name": "Litmaps",
+  "url": "https://www.litmaps.com",
+  "category": "literature",
+  "desc_zh": "文献地图与新论文提醒，追踪研究方向的最新进展。",
+  "desc_en": "Literature maps plus alerts for newly published papers.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free（最多 20 个输入、1 张图）；Pro 教育版 $10 起。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.litmaps.com/pricing",
+  "tags": [
+    "文献追踪"
+  ]
+}

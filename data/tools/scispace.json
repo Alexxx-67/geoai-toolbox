@@ -1,0 +1,20 @@
+{
+  "slug": "scispace",
+  "name": "SciSpace",
+  "url": "https://scispace.com",
+  "category": "literature",
+  "desc_zh": "AI 科研平台：读 PDF、做文献综述、辅助写作。",
+  "desc_en": "AI research platform for reading PDFs, literature review and writing.",
+  "pricing": "unknown",
+  "pricing_note": "官网有 Premium 付费档；免费额度待核实（定价页需浏览器渲染）。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://scispace.com/pricing",
+  "tags": [
+    "PDF 阅读",
+    "综述"
+  ]
+}

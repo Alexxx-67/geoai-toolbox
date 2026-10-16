@@ -1,0 +1,20 @@
+{
+  "slug": "geemap",
+  "name": "geemap",
+  "url": "https://geemap.org",
+  "category": "coding",
+  "desc_zh": "GEE Python 交互分析包，可把 GEE JavaScript 自动转成 Python。",
+  "desc_en": "Python package for interactive Earth Engine analysis; converts GEE JavaScript to Python.",
+  "pricing": "free",
+  "pricing_note": "MIT 开源。",
+  "geo": "yes",
+  "geo_note": "专为 GEE 设计，地学常用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://geemap.org/",
+  "tags": [
+    "GEE",
+    "Python"
+  ]
+}

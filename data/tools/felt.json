@@ -1,0 +1,19 @@
+{
+  "slug": "felt",
+  "name": "Felt",
+  "url": "https://felt.com",
+  "category": "mapping",
+  "desc_zh": "在线协作制图平台，付费档含 Felt AI 与 QGIS 插件。",
+  "desc_en": "Collaborative web mapping platform; paid plans include Felt AI.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free $0；Team $199/月起；高校教学有免费 Classroom 计划。Felt AI 仅付费档。",
+  "geo": "yes",
+  "geo_note": "GIS 制图平台。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://felt.com/pricing",
+  "tags": [
+    "在线地图"
+  ]
+}

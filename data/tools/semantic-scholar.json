@@ -1,0 +1,20 @@
+{
+  "slug": "semantic-scholar",
+  "name": "Semantic Scholar",
+  "url": "https://www.semanticscholar.org",
+  "category": "literature",
+  "desc_zh": "Ai2 出品的免费 AI 学术搜索，收录 2 亿+ 论文。",
+  "desc_en": "Free AI-powered academic search from Ai2, indexing 200M+ papers.",
+  "pricing": "free",
+  "pricing_note": "官网说明：免费的 AI 检索与发现工具（非营利）。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.semanticscholar.org/about",
+  "tags": [
+    "学术搜索",
+    "API"
+  ]
+}

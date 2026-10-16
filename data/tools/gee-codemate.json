@@ -1,0 +1,20 @@
+{
+  "slug": "gee-codemate",
+  "name": "GEE CodeMate",
+  "url": "https://chromewebstore.google.com/detail/gee-codemate/jbbjeccchedckdmkannmmeelicbhnmba",
+  "category": "coding",
+  "desc_zh": "Chrome 扩展：用自然语言生成、修复、解释 GEE JavaScript 代码。",
+  "desc_en": "Chrome extension that generates, fixes and explains Earth Engine JavaScript with AI.",
+  "pricing": "free",
+  "pricing_note": "商店页描述为免费工具（第三方个人开发者）。",
+  "geo": "yes",
+  "geo_note": "专为 GEE 设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://chromewebstore.google.com/detail/gee-codemate/jbbjeccchedckdmkannmmeelicbhnmba",
+  "tags": [
+    "GEE",
+    "浏览器扩展"
+  ]
+}
