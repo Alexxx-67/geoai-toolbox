@@ -1,0 +1,20 @@
+{
+  "slug": "satellite-embedding",
+  "name": "AlphaEarth Satellite Embedding（GEE）",
+  "url": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL",
+  "category": "models",
+  "desc_zh": "Google/DeepMind AlphaEarth 生成的全球 10 米年度 64 维嵌入，可直接在 GEE 中做分类与变化检测。",
+  "desc_en": "Global 10 m annual 64-D embeddings from AlphaEarth Foundations, ready in Earth Engine.",
+  "pricing": "free",
+  "pricing_note": "CC-BY 4.0；在 GEE 中使用（GCS 桶为 provider pays）。",
+  "geo": "yes",
+  "geo_note": "遥感嵌入数据产品。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL",
+  "tags": [
+    "GEE",
+    "嵌入"
+  ]
+}

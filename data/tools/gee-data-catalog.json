@@ -1,0 +1,20 @@
+{
+  "slug": "gee-data-catalog",
+  "name": "Earth Engine Data Catalog",
+  "url": "https://developers.google.com/earth-engine/datasets",
+  "category": "data",
+  "desc_zh": "GEE 公共数据目录：Landsat、Sentinel、MODIS、DEM、土地覆盖等四十多年数据。",
+  "desc_en": "Earth Engine public data catalog: 40+ years of imagery and scientific datasets.",
+  "pricing": "free",
+  "pricing_note": "GEE 对学术研究/教学免费（见官网非商业使用条款）。",
+  "geo": "yes",
+  "geo_note": "地学/遥感核心数据源。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://earthengine.google.com/noncommercial/",
+  "tags": [
+    "GEE",
+    "数据集"
+  ]
+}

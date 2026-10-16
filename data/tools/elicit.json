@@ -1,0 +1,20 @@
+{
+  "slug": "elicit",
+  "name": "Elicit",
+  "url": "https://elicit.com",
+  "category": "literature",
+  "desc_zh": "AI 文献助手：检索、筛选、批量总结论文，适合做综述。",
+  "desc_en": "AI research assistant for searching, screening and summarizing papers.",
+  "pricing": "freemium",
+  "pricing_note": "官网定价页：Basic 免费；Pro $49/人/月（年付）。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://elicit.com/pricing",
+  "tags": [
+    "综述",
+    "系统评价"
+  ]
+}

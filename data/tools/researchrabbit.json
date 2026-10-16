@@ -1,0 +1,19 @@
+{
+  "slug": "researchrabbit",
+  "name": "ResearchRabbit",
+  "url": "https://www.researchrabbit.ai",
+  "category": "literature",
+  "desc_zh": "以种子论文出发，可视化引用网络并推荐相关文献。",
+  "desc_en": "Turns seed papers into citation maps and recommends related work.",
+  "pricing": "unknown",
+  "pricing_note": "官网首页未列出价格，待核实。",
+  "geo": "general",
+  "geo_note": "通用学术工具，非地学专用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.researchrabbit.ai/",
+  "tags": [
+    "引用网络"
+  ]
+}

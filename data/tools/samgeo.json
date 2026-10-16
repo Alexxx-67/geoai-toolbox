@@ -1,0 +1,21 @@
+{
+  "slug": "samgeo",
+  "name": "segment-geospatial（SamGeo）",
+  "url": "https://samgeo.gishub.org",
+  "category": "models",
+  "desc_zh": "用 Segment Anything（SAM）分割遥感影像，支持文本提示与 QGIS 插件。",
+  "desc_en": "Segment remote sensing imagery with SAM, incl. text prompts and a QGIS plugin.",
+  "pricing": "free",
+  "pricing_note": "MIT 开源。",
+  "geo": "yes",
+  "geo_note": "遥感影像分割。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://samgeo.gishub.org/",
+  "tags": [
+    "SAM",
+    "分割",
+    "QGIS"
+  ]
+}

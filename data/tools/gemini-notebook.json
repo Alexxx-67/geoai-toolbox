@@ -1,0 +1,20 @@
+{
+  "slug": "gemini-notebook",
+  "name": "Gemini Notebook（原 NotebookLM）",
+  "url": "https://notebooklm.google",
+  "category": "literature",
+  "desc_zh": "基于你上传资料作答的 AI 笔记本，可生成摘要、思维导图、音频概览。",
+  "desc_en": "Source-grounded AI notebook: summaries, mind maps, audio overviews from your own sources.",
+  "pricing": "unknown",
+  "pricing_note": "官网有 Plans 页面，个人免费额度待核实。",
+  "geo": "general",
+  "geo_note": "通用工具；适合整理自己领域的论文集。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://notebooklm.google/",
+  "tags": [
+    "PDF 阅读",
+    "笔记"
+  ]
+}

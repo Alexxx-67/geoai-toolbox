@@ -1,0 +1,8 @@
+[
+ {"slug":"literature","zh":"文献检索与阅读","en":"Literature search & reading","icon":"📚","desc_zh":"找论文、读论文、理清引用关系。","desc_en":"Find, read and map papers."},
+ {"slug":"coding","zh":"GEE/Python 编程助手","en":"GEE / Python coding assistants","icon":"💻","desc_zh":"用 AI 写、改、解释 Earth Engine 和 Python 代码。","desc_en":"AI help for writing and debugging Earth Engine and Python code."},
+ {"slug":"data","zh":"数据查找与处理","en":"Data discovery & processing","icon":"🛰️","desc_zh":"找遥感/地学数据集，准备训练样本。","desc_en":"Find EO/geoscience datasets and prepare training data."},
+ {"slug":"models","zh":"遥感基础模型与 GeoAI","en":"EO foundation models & GeoAI","icon":"🧠","desc_zh":"遥感基础模型、嵌入数据与深度学习工具包。","desc_en":"EO foundation models, embeddings and deep-learning toolkits."},
+ {"slug":"writing","zh":"论文写作与润色","en":"Writing & editing","icon":"✍️","desc_zh":"英文润色、LaTeX、学术写作辅助。","desc_en":"Academic English editing, LaTeX and writing help."},
+ {"slug":"mapping","zh":"制图与可视化","en":"Mapping & visualization","icon":"🗺️","desc_zh":"交互地图、出图与空间可视化。","desc_en":"Interactive maps and spatial visualization."}
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "clay",
+  "name": "Clay Foundation Model",
+  "url": "https://clay-foundation.github.io/model/",
+  "category": "models",
+  "desc_zh": "开源地球基础模型，输出影像嵌入，可用于检索、分类、变化检测。",
+  "desc_en": "Open-source Earth foundation model producing embeddings for search, classification and change detection.",
+  "pricing": "free",
+  "pricing_note": "Apache-2.0；权重在 Hugging Face。",
+  "geo": "yes",
+  "geo_note": "遥感基础模型。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://clay-foundation.github.io/model/",
+  "tags": [
+    "基础模型",
+    "嵌入"
+  ]
+}

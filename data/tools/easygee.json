@@ -1,0 +1,20 @@
+{
+  "slug": "easygee",
+  "name": "EasyGEE",
+  "url": "https://github.com/Rimagination/easygee",
+  "category": "coding",
+  "desc_zh": "面向 GEE、geemap 的 Agent 插件，用自然语言编排遥感分析流程。",
+  "desc_en": "Agent plugin for Google Earth Engine, geemap and local map workflows.",
+  "pricing": "free",
+  "pricing_note": "GitHub 开源仓库（许可证待核实）。",
+  "geo": "yes",
+  "geo_note": "专为 GEE/geemap 设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://github.com/Rimagination/easygee",
+  "tags": [
+    "GEE",
+    "Agent"
+  ]
+}

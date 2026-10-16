@@ -1,0 +1,20 @@
+{
+  "slug": "satlas",
+  "name": "Satlas（Ai2）",
+  "url": "https://satlas.allen.ai",
+  "category": "data",
+  "desc_zh": "Ai2 用 AI 生成的全球地理数据（风电、光伏、树冠等），附超分辨率与模型。",
+  "desc_en": "AI-generated global geospatial data (wind, solar, tree cover) from Ai2.",
+  "pricing": "free",
+  "pricing_note": "官网说明数据免费公开下载，模型与标签也已发布。",
+  "geo": "yes",
+  "geo_note": "遥感 AI 数据产品。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://satlas.allen.ai/",
+  "tags": [
+    "数据产品",
+    "超分辨率"
+  ]
+}

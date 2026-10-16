@@ -1,0 +1,20 @@
+{
+  "slug": "github-copilot",
+  "name": "GitHub Copilot",
+  "url": "https://github.com/features/copilot",
+  "category": "coding",
+  "desc_zh": "通用 AI 编程助手，在 VS Code / Jupyter 等环境补全与对话写代码。",
+  "desc_en": "General AI coding assistant in VS Code, JetBrains and more.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free $0（有限额度）；Pro $10/月起。",
+  "geo": "general",
+  "geo_note": "通用编程工具；写 GEE Python / GDAL 脚本可用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://github.com/features/copilot/plans",
+  "tags": [
+    "Python",
+    "IDE"
+  ]
+}

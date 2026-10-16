@@ -1,0 +1,19 @@
+{
+  "slug": "overleaf-ai",
+  "name": "Overleaf AI",
+  "url": "https://www.overleaf.com/about/ai-features",
+  "category": "writing",
+  "desc_zh": "Overleaf 内置 AI：生成 LaTeX 表格/公式、解释报错、语言润色（集成 Writefull）。",
+  "desc_en": "AI in Overleaf: LaTeX table/equation generation, error help and language feedback.",
+  "pricing": "freemium",
+  "pricing_note": "官网：每日有限次数免费；购买 Overleaf 套餐提升额度。",
+  "geo": "general",
+  "geo_note": "通用 LaTeX 写作。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.overleaf.com/about/ai-features",
+  "tags": [
+    "LaTeX"
+  ]
+}

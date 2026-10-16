@@ -1,0 +1,20 @@
+{
+  "slug": "dofa",
+  "name": "DOFA",
+  "url": "https://github.com/zhu-xlab/DOFA",
+  "category": "models",
+  "desc_zh": "波长感知的多模态遥感基础模型，一个模型可处理 SAR、多光谱、高光谱等。",
+  "desc_en": "Wavelength-aware foundation model handling many sensors (SAR, multispectral, hyperspectral).",
+  "pricing": "free",
+  "pricing_note": "GitHub 开源代码。",
+  "geo": "yes",
+  "geo_note": "遥感基础模型。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://github.com/zhu-xlab/DOFA",
+  "tags": [
+    "基础模型",
+    "多模态"
+  ]
+}

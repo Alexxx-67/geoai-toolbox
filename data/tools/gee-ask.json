@@ -1,0 +1,20 @@
+{
+  "slug": "gee-ask",
+  "name": "Earth Engine Code Editor「Ask」助手",
+  "url": "https://developers.google.com/earth-engine/guides/code_editor_assistant",
+  "category": "coding",
+  "desc_zh": "GEE 代码编辑器内置的 Gemini 助手，可写、调试、解释、优化 GEE 脚本，还能检索数据目录。",
+  "desc_en": "Gemini assistant built into the Earth Engine Code Editor: write, debug, explain and optimize scripts.",
+  "pricing": "freemium",
+  "pricing_note": "功能本身内置于 GEE；需填写自己的 Gemini API Key（Gemini API 有免费档，付费档按用量计费）。",
+  "geo": "yes",
+  "geo_note": "GEE 官方功能，专为地学/遥感脚本设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://developers.google.com/earth-engine/guides/code_editor_assistant",
+  "tags": [
+    "GEE",
+    "Gemini"
+  ]
+}

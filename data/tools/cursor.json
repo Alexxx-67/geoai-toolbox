@@ -1,0 +1,20 @@
+{
+  "slug": "cursor",
+  "name": "Cursor",
+  "url": "https://cursor.com",
+  "category": "coding",
+  "desc_zh": "AI 代码编辑器，可用 Agent 改写整个项目。",
+  "desc_en": "AI code editor with agent mode.",
+  "pricing": "freemium",
+  "pricing_note": "定价页：Free $0（有限额度）；付费档 $8/月起。",
+  "geo": "general",
+  "geo_note": "通用编程工具。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://cursor.com/pricing",
+  "tags": [
+    "IDE",
+    "Agent"
+  ]
+}

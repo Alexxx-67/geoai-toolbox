@@ -1,0 +1,20 @@
+{
+  "slug": "leafmap",
+  "name": "leafmap",
+  "url": "https://leafmap.org",
+  "category": "mapping",
+  "desc_zh": "Jupyter 中的交互制图与空间分析包，少量代码即可出图，集成 SAM 分割。",
+  "desc_en": "Interactive mapping and geospatial analysis in Jupyter with minimal code.",
+  "pricing": "free",
+  "pricing_note": "MIT 开源。",
+  "geo": "yes",
+  "geo_note": "专为地理空间可视化设计。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://leafmap.org/",
+  "tags": [
+    "Python",
+    "交互地图"
+  ]
+}

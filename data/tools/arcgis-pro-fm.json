@@ -1,0 +1,20 @@
+{
+  "slug": "arcgis-pro-fm",
+  "name": "ArcGIS Pro 遥感基础模型",
+  "url": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/earth-observation-with-remote-sensing-foundation-models-in-arcgis",
+  "category": "mapping",
+  "desc_zh": "ArcGIS Pro 集成 Prithvi、Clay、DOFA、TerraMind 等模型，可生成嵌入或微调分类。",
+  "desc_en": "ArcGIS Pro integrates Prithvi, Clay, DOFA, TerraMind and DINO for embeddings and fine-tuning.",
+  "pricing": "unknown",
+  "pricing_note": "需 ArcGIS Pro 许可，具体价格待核实。",
+  "geo": "yes",
+  "geo_note": "GIS 桌面软件内的 GeoAI。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://www.esri.com/arcgis-blog/products/arcgis-pro/geoai/earth-observation-with-remote-sensing-foundation-models-in-arcgis",
+  "tags": [
+    "ArcGIS",
+    "基础模型"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "google-ai-studio",
+  "name": "Google AI Studio / Gemini API",
+  "url": "https://aistudio.google.com",
+  "category": "coding",
+  "desc_zh": "Gemini 模型的在线工作台与 API；GEE Ask 助手所需的 API Key 在这里创建。",
+  "desc_en": "Workbench and API for Gemini models; where you create the key used by GEE Ask.",
+  "pricing": "freemium",
+  "pricing_note": "官方定价页：Gemini API 有免费档；AI Studio 使用免费；付费档按 token 计费。",
+  "geo": "general",
+  "geo_note": "通用大模型；与 GEE Ask 配合使用。",
+  "test_notes": "待实测",
+  "test_status": "pending",
+  "verified_on": "2026-10-16",
+  "verified_source": "https://ai.google.dev/gemini-api/docs/pricing",
+  "tags": [
+    "Gemini",
+    "API"
+  ]
+}
